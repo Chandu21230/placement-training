@@ -1,0 +1,124 @@
+#s0 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: blue;
+    opacity: 1;
+    text-align: center;
+}
+#s1 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: blue;
+    opacity: 0.9;
+    text-align: center;
+}
+#s2 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: blue;
+    opacity: 0.8;
+    text-align: center;
+}
+#s3 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: blue;
+    opacity: 0.7;
+    text-align: center;
+}
+#s4 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: blue;
+    opacity: 0.6;
+    text-align: center;
+}
+#s5 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: blue;
+    opacity: 0.5;
+    text-align: center;
+}
+#s6 {
+    background-color: black;
+    height: 20px;
+    width: 1450px;
+    background-color: blue;
+    opacity: 0.4;
+    text-align: center;
+}
+#s7 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: magenta;
+    opacity: 0.5;
+    text-align: center;
+}
+#s8 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: red;
+    opacity: 0.3;
+    text-align: center;
+}
+#s9 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: red;
+    opacity: 0.4;
+    text-align: center;
+}
+#s10 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: rgb(255, 0, 0);
+    opacity: 0.5;
+    text-align: center;
+}
+#s11 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: red;
+    opacity: 0.6;
+    text-align: center;
+}
+#s12 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: red;
+    opacity: 0.7;
+    text-align: center;
+}
+#s13{
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: red;
+    opacity: 0.8;
+    text-align: center;
+}
+#s14 {
+    height: 20px;
+    width: 1450px;
+    border-color: black;
+    background-color: red;
+    opacity: 1;
+    text-align: center;
+}
+header{
+    padding: 10px;
+    text-align: center;
+}
